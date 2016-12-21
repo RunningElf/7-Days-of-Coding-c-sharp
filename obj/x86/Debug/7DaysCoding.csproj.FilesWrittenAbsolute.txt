@@ -1,0 +1,5 @@
+/Users/TiagoHirayama/Projects/7DaysCoding/7DaysCoding/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TiagoHirayama/Projects/7DaysCoding/7DaysCoding/bin/Debug/7DaysCoding.exe.mdb
+/Users/TiagoHirayama/Projects/7DaysCoding/7DaysCoding/bin/Debug/7DaysCoding.exe
+/Users/TiagoHirayama/Projects/7DaysCoding/7DaysCoding/obj/x86/Debug/7DaysCoding.exe
+/Users/TiagoHirayama/Projects/7DaysCoding/7DaysCoding/obj/x86/Debug/7DaysCoding.exe.mdb
