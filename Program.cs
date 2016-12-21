@@ -7,16 +7,12 @@ namespace DaysCoding
 	{
 		public static void Main(string[] args)
 		{
-			Day1 day1 = new Day1();
+			Day day = new Day();
 
-			day1.beginDay1();
+			//day.beginDay1();
+			//day.beginDay2();
+
 		}
-
-
-
-
-
-
 	
 	}
 
